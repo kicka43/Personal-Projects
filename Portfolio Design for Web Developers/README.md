@@ -31,5 +31,4 @@ Due to company privacy and confidentiality agreements, I am unable to share spec
 
 Justin Zavala  
 Summer 2024 Internship at Adobe  
-[LinkedIn Profile](https://www.linkedin.com/in/justinzavala)
 
