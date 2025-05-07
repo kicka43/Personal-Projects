@@ -26,6 +26,7 @@ This project compares internet connectivity issues and disparities between two s
 
 ## Data Source
 American Community Survey (ACS) **Household File**
+
 Federal Communications Commission (FCC)
 
 
