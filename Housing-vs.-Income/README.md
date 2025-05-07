@@ -24,7 +24,8 @@ American Community Survey (Household File & Persons' File) – U.S. Census Burea
 
 You can view a visual summary of this project here:
 
-[📄 View PDF Slides](Housing-vs.-Income/Housing_vs_Income.pdf)
+[📊 View Slide Deck on Google Slides]([https://docs.google.com/presentation/d/your-link-here](https://docs.google.com/presentation/d/1iSNmyeB6k3nyIp2VFyoJKOy1YQsAZzww879g0k8i1lM/edit?usp=sharing) 
+
 
 # Author
 
