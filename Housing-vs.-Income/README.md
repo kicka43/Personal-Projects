@@ -4,7 +4,7 @@ Overview
 
 This project explores the relationship between median household income and average housing costs across the United States. It uses data visualization techniques to highlight affordability trends, disparities, and potential areas of concern regarding housing access.
 
-Technologies Used
+# Technologies Used
 
 Python 3
 
@@ -16,17 +16,17 @@ Matplotlib
 
 Seaborn
 
-Data Sources
+# Data Sources
 
 American Community Survey (Household File & Persons' File) – U.S. Census Bureau
 
-Visual Highlights
+# Visual Highlights
 
 You can view a visual summary of this project here:
 
 [📄 View PDF Slides](./Housing-vs.-Income/Housing_vs_Income.pdf)
 
-Author
+# Author
 
 Justin Zavala
 
